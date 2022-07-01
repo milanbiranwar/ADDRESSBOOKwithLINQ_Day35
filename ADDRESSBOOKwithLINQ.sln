@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADDRESSBOOKwithLINQ", "ADDRESSBOOKwithLINQ\ADDRESSBOOKwithLINQ.csproj", "{661DA215-C1D8-427C-B891-A7A5A87AFAC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ADDRESSBOOKwithLINQ", "ADDRESSBOOKwithLINQ\ADDRESSBOOKwithLINQ.csproj", "{661DA215-C1D8-427C-B891-A7A5A87AFAC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileIOAssignment", "FileIOAssignment\FileIOAssignment.csproj", "{62E816DC-41A7-49B7-86FD-2ECB3B77C472}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{661DA215-C1D8-427C-B891-A7A5A87AFAC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{661DA215-C1D8-427C-B891-A7A5A87AFAC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{661DA215-C1D8-427C-B891-A7A5A87AFAC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62E816DC-41A7-49B7-86FD-2ECB3B77C472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E816DC-41A7-49B7-86FD-2ECB3B77C472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E816DC-41A7-49B7-86FD-2ECB3B77C472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E816DC-41A7-49B7-86FD-2ECB3B77C472}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
